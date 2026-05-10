@@ -1,0 +1,2 @@
+../User/Lib/FreeModbus/modbus/functions/mbfuncother.c:52:1:eMBSetSlaveID	24	static
+../User/Lib/FreeModbus/modbus/functions/mbfuncother.c:80:1:eMBFuncReportSlaveID	16	static

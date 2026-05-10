@@ -1,0 +1,8 @@
+../User/Lib/FreeModbus/modbus/rtu/mbrtu.c:80:1:eMBRTUInit	4
+../User/Lib/FreeModbus/modbus/rtu/mbrtu.c:125:1:eMBRTUStart	1
+../User/Lib/FreeModbus/modbus/rtu/mbrtu.c:141:1:eMBRTUStop	1
+../User/Lib/FreeModbus/modbus/rtu/mbrtu.c:150:1:eMBRTUReceive	3
+../User/Lib/FreeModbus/modbus/rtu/mbrtu.c:186:1:eMBRTUSend	2
+../User/Lib/FreeModbus/modbus/rtu/mbrtu.c:226:1:xMBRTUReceiveFSM	6
+../User/Lib/FreeModbus/modbus/rtu/mbrtu.c:286:1:xMBRTUTransmitFSM	4
+../User/Lib/FreeModbus/modbus/rtu/mbrtu.c:325:1:xMBRTUTimerT35Expired	7

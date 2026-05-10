@@ -1,0 +1,6 @@
+../User/Lib/FreeModbus/modbus/mb.c:129:1:eMBInit	7
+../User/Lib/FreeModbus/modbus/mb.c:225:1:eMBRegisterCB	10
+../User/Lib/FreeModbus/modbus/mb.c:272:1:eMBClose	3
+../User/Lib/FreeModbus/modbus/mb.c:291:1:eMBEnable	2
+../User/Lib/FreeModbus/modbus/mb.c:309:1:eMBDisable	3
+../User/Lib/FreeModbus/modbus/mb.c:331:1:eMBPoll	13

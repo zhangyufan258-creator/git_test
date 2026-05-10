@@ -1,0 +1,6 @@
+../User/Lib/FreeModbus/port/portserial.c:38:1:vMBPortSerialEnable	16	static
+../User/Lib/FreeModbus/port/portserial.c:76:1:xMBPortSerialInit	16	static
+../User/Lib/FreeModbus/port/portserial.c:84:1:xMBPortSerialPutByte	16	static
+../User/Lib/FreeModbus/port/portserial.c:94:1:xMBPortSerialGetByte	16	static
+../User/Lib/FreeModbus/port/portserial.c:109:6:prvvUARTTxReadyISR	8	static
+../User/Lib/FreeModbus/port/portserial.c:119:6:prvvUARTRxISR	8	static

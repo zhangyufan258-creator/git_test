@@ -1,0 +1,4 @@
+../User/Lib/FreeModbus/port/port.c:18:14:eMBRegInputCB	3
+../User/Lib/FreeModbus/port/port.c:44:14:eMBRegHoldingCB	5
+../User/Lib/FreeModbus/port/port.c:78:14:eMBRegCoilsCB	12
+../User/Lib/FreeModbus/port/port.c:133:14:eMBRegDiscreteCB	7

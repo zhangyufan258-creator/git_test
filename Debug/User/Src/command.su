@@ -1,0 +1,9 @@
+../User/Src/command.c:31:16:cmd_cache_holdreg	24	static
+../User/Src/command.c:55:16:cmd_cmp_holdreg	24	static
+../User/Src/command.c:90:6:init_DATA_Struct	16	static
+../User/Src/command.c:105:9:CMD_IsSystemUnlocked	4	static
+../User/Src/command.c:124:6:CMD_ProcessTask	8	static
+../User/Src/command.c:165:13:cmd_process_resistor_change	16	static
+../User/Src/command.c:182:13:cmd_process_channel_change	16	static
+../User/Src/command.c:199:13:cmd_process_iv_source_change	16	static
+../User/Src/command.c:215:13:cmd_process_shortground_change	16	static

@@ -1,0 +1,4 @@
+../User/Lib/FreeModbus/port/porttimer.c:36:1:xMBPortTimersInit	24	static
+../User/Lib/FreeModbus/port/porttimer.c:66:1:vMBPortTimersEnable	4	static
+../User/Lib/FreeModbus/port/porttimer.c:76:1:vMBPortTimersDisable	4	static
+../User/Lib/FreeModbus/port/porttimer.c:89:6:prvvTIMERExpiredISR	8	static
